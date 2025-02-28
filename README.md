@@ -16,4 +16,24 @@ This project applies machine learning techniques to detect fraudulent credit car
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/credit-card-fraud-detection.git
+   
+#### **4. Create a `requirements.txt` File**
+List your dependencies:
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+
+
+   git add README.md requirements.txt
+   pip freeze > requirements.txt
+
+git commit -m "Added documentation and dependencies"
+git push origin main
+
+
 Contact iankwach00@gmail.com
